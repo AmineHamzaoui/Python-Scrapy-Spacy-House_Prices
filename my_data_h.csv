@@ -1,0 +1,1248 @@
+price;rooms;size;bathrooms;living_areas;bedrooms;type_of_property;city;region
+5000000.0;11;4992;4;null;null;house;La Soukra;La Soukra
+980000.0;null;600;1;1;1;house;Tunis;Sidi Bechir
+530000.0;6;540;2;null;null;apartment;Djerba;Djerba
+null;3;172;1;null;3;apartment;La Marsa;Ain Zaghouan Nord
+2400000.0;14;980;4;null;null;house;El Menzah;El Menzah 4
+670000.0;5;514;2;null;null;apartment;Djerba;Djerba
+1100000.0;4;150;3;4;null;house;Le Kram;Les Jardins de Carthage
+1350000.0;7;400;2;null;5;house;null;Ariana Ville
+1020000.0;5;442;1;null;5;null;Tunis;Bab Bhar
+1200000.0;null;360;1;5;5;house;La Soukra;Chotrana 1
+5500000.0;5;400;3;null;null;house;La Marsa;Gammarth
+null;8;1311;null;null;null;house;La Marsa;Gammarth
+2000000.0;5;122;2;null;null;house;Carthage;Sidi Bousaid
+1100000.0;7;1000;2;null;null;house;Ariana Ville;Ariana
+2500000.0;5;1180;null;null;null;house;La Marsa;Gammarth Supérieur
+1220000.0;4;621;3;null;null;house;La Marsa;Gammarth
+620000.0;3;280;2;5;null;house;La Marsa;Ain Zaghouan Nord
+130000.0;2;140;1;3;null;house;null;Kelibia
+1500000.0;4;320;1;4;null;house;La Soukra;La Soukra
+170000.0;null;122;1;3;2;house;null;Kelibia
+230000.0;3;101;1;null;2;house;null;Dar Châabane
+1100000.0;4;179;3;null;null;house;Le Kram;Les Jardins de Carthage
+null;5;1020;6;6;null;house;Hammamet;Hammamet Nord
+1200000.0;null;350;1;4;3;apartment;Hammamet;Hammamet Nord
+null;3;141;1;4;null;house;Hammamet;Hammamet
+3200000.0;3;1400;null;null;null;house;La Marsa;La Marsa
+null;3;280;3;null;null;null;Djerba;Djerba
+890000.0;null;350;3;5;4;house;El Menzah;El Menzah 9
+200000.0;4;300;2;null;null;house;Hammamet;Hammamet Nord
+1500000.0;null;300;null;4;3;house;La Marsa;Gammarth Supérieur
+203530.0;null;92;1;3;2;house;Djerba;Djerba
+428900.0;null;135;null;5;3;apartment;Djerba;Djerba
+303400.0;4;105;3;null;null;apartment;Djerba;Djerba
+38000.0;null;340;1;1;1;house;null;Kelibia
+150000.0;3;150;1;null;null;house;null;Kelibia
+700000.0;null;540;2;3;2;house;null;Korba
+365000.0;2;121;1;2;null;house;La Soukra;La Soukra
+470000.0;3;140;2;4;null;house;Ezzahra;Ezzahra
+null;null;210;1;null;3;house;null;Barraket Essahel
+170000.0;3;200;1;null;null;house;null;Kelibia
+1400000.0;8;611;3;null;6;house;Ariana Ville;El Menzah 6
+1050000.0;null;539;2;9;7;house;El Menzah;El Menzah 9
+null;5;250;null;null;null;house;Sousse Jaouhara;Sahloul
+null;3;250;1;3;null;house;Akouda;Chott Meriem
+410000.0;7;380;2;null;null;house;null;Ksar Hellal
+null;3;100;2;null;null;house;Hammamet;Hammamet Nord
+550000000.0;4;458;1;null;null;house;Raoued;Cité des Juges
+198000.0;8;500;1;null;null;house;null;Ksar Hellal
+1800000.0;9;539;2;null;null;house;La Marsa;La Marsa
+250000.0;null;140;1;2;2;house;null;Kelibia
+149000.0;null;500;null;4;4;house;null;Ksar Hellal
+360000.0;4;450;1;null;3;house;null;Raf Raf
+150000.0;2;125;1;3;null;house;null;Kélibia
+408000.0;2;191;1;null;2;house;La Soukra;La Soukra
+940000.0;9;300;3;null;null;house;La Soukra;Chotrana 3
+220000.0;null;180;1;3;2;house;null;Kelibia
+480000.0;7;158;2;null;null;house;Hammamet;Hammamet
+450000.0;3;387;1;null;null;apartment;Hammamet;Hammamet Nord
+420000.0;5;250;2;null;3;house;Nabeul;Nabeul
+2750000.0;7;5000;null;null;null;house;e;Boumhel Bassat
+650000.0;null;170;2;4;3;house;La Marsa;Cite des Juges
+1550000.0;9;543;4;null;null;house;Ariana Ville;El Menzah 5
+1900000.0;6;480;4;null;null;house;Carthage;Carthage
+2250000.0;4;498;2;null;null;house;Carthage;Carthage
+1300000.0;null;418;1;3;2;house;Carthage;Carthage
+4500000.0;null;500;4;9;5;house;Carthage;Carthage
+445000.0;4;250;2;null;3;house;Nabeul;Nabeul
+490000.0;4;430;2;null;null;house;El Hrairia;Cite Bouzaiene
+780000.0;null;null;null;null;null;null;Hammamet;Hammamet
+550000.0;null;600;1;2;2;house;null;Kalaa Kebira
+1500000.0;6;320;4;null;5;house;La Soukra;La Soukra
+1250000.0;4;450;null;4;null;house;La Soukra;La Soukra
+1100000.0;5;456;3;7;null;apartment;La Soukra;La Soukra
+650000.0;4;800;2;null;null;house;null;Kalaa Kebira
+650000.0;4;800;2;null;null;house;null;Kalaa Kebira
+950000.0;null;300;1;5;5;house;La Soukra;Chotrana 3
+1100000.0;null;256;1;3;3;house;Le Kram;Les Jardins de Carthage
+180000.0;3;200;1;null;null;house;null;Kelibia
+330000.0;3;350;2;1;null;house;El Mourouj;El Mourouj 5
+250000.0;3;330;1;null;null;house;null;Kelibia
+1400000.0;4;768;2;5;null;house;La Soukra;Chotrana 2
+880000.0;4;180;2;null;2;house;La Marsa;La Marsa
+190000.0;1;289;1;2;null;house;null;Kelibia
+370000.0;3;1300;1;null;null;house;Hammamet;Hammamet
+170000.0;2;122;1;3;null;house;null;Kelibia
+570000.0;8;330;2;8;null;house;Raoued;Raoued
+170000.0;6;200;2;null;null;house;La Manouba;La Manouba
+650000.0;4;210;1;null;null;house;Carthage;Salambo
+null;7;500;5;null;null;house;Carthage;Amilcar
+450000.0;4;230;2;5;null;house;La Marsa;Cite Erriadh
+520000.0;5;300;1;null;null;house;Raoued;Raoued
+870000.0;3;300;1;null;2;house;La Goulette;La Goulette
+700000.0;4;333;null;5;null;house;La Marsa;La Marsa
+990000.0;null;220;null;4;3;house;Carthage;Carthage
+null;null;350;3;16;10;house;La Soukra;La Soukra
+null;3;100;1;null;null;house;Hammamet;Hammamet Sud
+680000.0;7;372;5;null;5;house;Sousse Jaouhara;Sahloul
+1200000.0;4;664;1;4;null;house;Nabeul;Sidi El Mahrsi
+1700000.0;3;525;2;4;null;house;Carthage;Amilcar
+700000.0;4;234;2;4;null;apartment;La Soukra;Chotrana 1
+1500000.0;4;732;2;null;null;house;Hammamet;Yasmine Hammamet
+197000.0;null;150;null;3;4;house;null;El Haouaria
+460000.0;3;129;1;null;null;house;Hammamet;Hammamet
+55000.0;1;150;1;null;2;house;null;Kelibia
+98000.0;2;110;1;null;null;house;null;El Haouaria
+340000.0;2;280;1;1;null;house;Hammamet;Hammamet
+670000.0;12;519;3;null;null;house;Le Bardo;Le Bardo
+670000.0;6;664;3;null;null;house;Le Bardo;Khaznadar
+580000.0;5;310;2;null;null;house;El Menzah;El Manar 1
+878500.0;5;209;4;null;4;apartment;La Soukra;Chotrana 1
+338800.0;5;615;2;null;3;house;Djerba;Djerba
+275000.0;5;120;2;null;null;house;Djerba;Djerba
+276400.0;5;475;2;null;2;house;Djerba;Djerba
+750000.0;3;221;3;4;null;apartment;La Soukra;Chotrana 1
+1480000.0;9;422;2;null;7;house;Carthage;Carthage Byrsa
+420000.0;4;226;2;null;3;house;El Mourouj;El Mourouj 6
+125000.0;null;null;null;null;null;null;Mornaguia;Mornaguia 20 Mars
+null;10;250;null;5;null;house;e;Jayara inSidi Hass
+1250000.0;5;361;4;6;null;apartment;Le Kram;Les Jardins de Carthage
+120000.0;null;83;1;2;2;house;Sousse Ville;Sousse Medina
+290000.0;null;130;1;null;3;house;Le Bardo;Le Bardo
+150000.0;3;110;1;null;null;house;null;Hammam Ghezèze
+null;null;600;1;null;3;house;La Marsa;Cité Du Stade
+180000.0;1;300;1;1;null;house;null;Kelibia
+1050000.0;4;500;null;5;null;apartment;null;Korba
+190000.0;3;137;1;4;null;house;La Soukra;Dar Fadhal
+680000.0;8;202;2;null;null;house;Le Bardo;Ksar Said
+null;2;65;1;3;null;house;Bizerte Nord;Bizerte
+null;null;90;2;null;4;house;El Omrane Superieur;El Omrane Supérieur
+280000.0;null;170;null;4;3;house;Tunis;El Halfaouine
+null;null;500;null;null;null;land;Hammamet;Hammamet
+425000.0;2;200;1;null;null;house;null;Hammam Ghezèze
+330000.0;3;260;2;4;null;house;null;Kelibia
+200000.0;2;369;1;3;null;house;null;Kelibia
+null;null;151;1;3;2;house;Hammamet;Hammamet Sud
+3400000.0;7;625;null;null;null;house;null;La Marsa
+115000.0;2;100;1;3;null;house;null;Kelibia
+140000.0;4;100;2;6;null;house;null;Ras Jebel
+480000.0;3;175;3;4;null;house;La Marsa;Ain Zaghouan Sud
+820000.0;null;null;null;null;null;null;La Marsa;Gammarth
+70000.0;2;220;1;null;null;house;null;El Haouaria
+950000.0;5;138;2;null;null;house;Le Kram;Les Jardins de Carthage
+120000.0;2;90;1;1;null;house;null;Kelibia
+1364000.0;null;null;null;null;null;null;Raoued;Raoued
+210000.0;3;217;1;null;null;house;null;Hammam El Ghezaz
+829000.0;null;null;null;null;null;null;Raoued;Raoued
+3500000.0;null;1140;2;5;5;apartment;Akouda;Chott Meriem
+200000.0;2;103;1;3;null;house;Nabeul;Nabeul
+650000.0;6;800;4;6;null;house;null;Kalaa Kebira
+320000.0;3;209;1;4;null;house;La Soukra;La Soukra
+230000.0;3;92;2;4;null;house;El Omrane Superieur;Cite Ubn Khaldoun
+850000.0;7;320;4;null;null;apartment;La Marsa;Gammarth
+2300000.0;5;850;2;7;null;house;El Menzah;Mutuelle Ville
+120000.0;3;70;3;null;null;house;Nabeul;Nabeul
+350000.0;4;450;1;null;null;house;Sousse Ville;Sousse Ville
+415000.0;3;250;2;null;null;house;El Mourouj;El Mourouj 3
+630000.0;5;250;1;null;4;house;Ariana Ville;Cite Ennasr 2
+440000.0;5;220;1;null;null;house;null;Hammam Ghezeze
+225000.0;3;376;1;null;null;house;null;Kelibia
+1800000.0;9;700;null;14;null;house;Ariana Ville;Les Jardins d'El Menzah 2
+95000.0;6;150;1;null;3;house;Oued Ellil;Oued Ellil
+250000.0;5;330;1;null;null;house;Fouchana;Cite Brim
+1400000.0;null;470;1;3;2;house;null;Khezama Ouest
+720000.0;4;242;3;5;null;apartment;La Soukra;La Soukra
+200000.0;3;74;1;3;null;house;Sousse Ville;Sousse Ville
+620000.0;4;190;null;5;null;house;La Marsa;Ain Zaghouan Nord
+320000.0;null;144;null;4;3;apartment;La Marsa;Bhar Lazreg
+80000.0;3;600;1;null;null;house;Tabarka;Tabarka Ville
+null;5;520;3;null;null;house;Sousse Ville;Sousse Medina
+600000.0;null;544;1;5;4;house;Le Bardo;Le Bardo
+850000.0;null;667;3;6;5;house;Sousse Ville;Sahloul
+295000.0;3;367;1;5;null;house;null;Kelibia
+390000.0;4;150;1;null;3;house;La Marsa;Cite Erriadh
+800000.0;2;140;null;3;null;house;La Marsa;Cite Les Pins
+null;null;70;1;1;1;house;Hammamet;Hammamet Nord
+710000.0;null;300;1;4;3;house;La Soukra;La Soukra
+550000.0;3;600;2;null;null;house;null;Kalaa Kebira
+700000.0;null;250;2;3;3;house;Sousse Jaouhara;Khezama
+450000.0;8;430;null;null;null;house;null;Fouchana
+null;null;315;1;2;2;house;La Soukra;La Soukra
+280000.0;4;190;2;null;null;house;null;Fouchana
+480000.0;4;80;2;null;null;house;La Marsa;Ain Zaghouan Sud
+1050000.0;7;505;1;null;null;house;Nabeul;Nabeul
+260000.0;4;380;1;null;null;house;Djerba;Djerba
+210000.0;5;75;1;null;null;house;Hammamet;Hammamet Sud
+250000.0;5;180;1;null;null;house;Monastir Ville;Monastir Ville
+1500000.0;null;420;4;13;10;house;Le Bardo;Le Bardo
+480000.0;2;215;2;3;null;apartment;Hammam Sousse;El Kantaoui
+null;null;378;2;6;5;house;La Marsa;Aouina
+450000.0;4;216;2;null;3;house;La Marsa;Bhar Lazreg
+250000.0;1;319;1;2;null;house;null;Kelibia
+750000.0;5;240;2;null;null;house;null;La Soukra
+620000.0;null;634;3;2;6;house;null;Soliman
+190000.0;null;150;1;4;3;house;null;Bizerte
+125000.0;3;80;1;null;null;house;tunis;La Medina
+185000.0;3;100;1;null;2;house;Hammamet;Hammamet
+600000.0;null;310;3;9;6;house;Hammamet;Hammamet
+310000.0;null;160;2;5;4;house;Hammamet;Hammamet
+480000.0;7;103;2;null;null;house;Tunis;La Medina
+750000.0;5;656;1;null;5;house;Bizerte Nord;Bizerte Centre Ville
+320000.0;4;350;1;null;null;house;El Hrairia;Cite Essalama
+150000.0;null;165;2;3;3;house;null;Ksar Hellal
+250000.0;3;407;2;7;null;house;Mornag;Khelidia
+360000.0;null;566;1;4;3;house;null;Soliman
+null;4;400;4;null;3;apartment;La Soukra;La Soukra
+300000.0;2;300;2;null;4;house;Raoued;Raoued
+null;9;3000;2;5;null;house;La Soukra;La Soukra
+70000.0;1;80;1;3;null;house;null;Kelibia
+90000.0;6;150;1;null;2;house;null;Kelibia
+1200000.0;3;465;1;null;null;house;Sousse Jaouhara;Khezama
+150000.0;1;60;1;null;null;house;null;Kelibia
+175000.0;3;170;1;null;2;house;Hammamet;Hammamet Nord
+1290000.0;null;267;null;6;4;house;Tunis;La Medina
+null;4;120;2;6;null;apartment;El Ouardia;El Ouardia
+200000.0;2;96;1;null;null;house;null;Dar Chaabane
+720000.0;5;285;2;null;null;house;Hammamet;Yasmine Hammamet
+290000.0;5;158;1;7;null;house;null;Dar Chaabane
+250000.0;4;272;2;null;4;house;Fouchana;Cite El Hidhab
+null;4;175;2;null;null;house;Fouchana;Cite El Misk
+1100000.0;6;400;3;null;null;apartment;La Soukra;La Soukra
+390000.0;5;786;2;null;3;house;Sfax Ville;Habbana 2
+1050000.0;5;10000;3;null;null;house;Sidi Thabet;Sidi Thabet
+155000.0;null;119;1;3;2;house;Hammam Sousse;Hammam Sousse
+420000.0;2;320;null;3;null;house;Le Bardo;Le Bardo
+120000.0;3;177;1;6;null;house;null;Ksar Hellal
+600000.0;3;260;1;null;null;house;Hammamet;Hammamet
+390000.0;null;400;4;11;9;house;Raoued;Raoued
+400000.0;2;154;1;3;null;house;Hammamet;Hammamet
+470000.0;10;172;2;null;3;house;null;Avenue Khezama
+null;3;201;2;null;null;house;Mohamadia;Cite Ennouzha
+140000.0;5;116;1;null;null;house;Hammam Chatt;Bir El Bey
+250000.0;5;490;2;null;null;house;null;Kelibia
+370000.0;3;254;2;5;null;house;Hammamet;Hammamet
+500000.0;null;210;3;6;4;house;La Manouba;Denden
+280000.0;4;225;1;null;null;house;La Marsa;Bhar Lazreg
+790000.0;5;363;2;7;null;house;Ariana Ville;El Menzah 8
+620000.0;6;280;3;null;null;apartment;La Marsa;Ain Zaghouan Nord
+null;null;500;4;10;7;house;Ariana Ville;Riadh al Andalous
+500000.0;null;500;2;4;3;house;El Mourouj;El Mourouj 3
+470000.0;6;280;1;null;null;house;null;Hergla
+230000.0;4;132;1;null;null;house;Hammamet;Hammamet
+1190000.0;null;482;5;9;8;house;El Menzah;El Menzah 9
+1270000.0;6;570;null;8;null;house;Le Bardo;Le Bardo
+620000.0;4;280;3;null;null;house;La Marsa;Ain Zaghouan Nord
+620000.0;4;180;2;null;null;house;La Marsa;La Marsa
+360000.0;5;1150;3;null;5;house;Midoun;Midoune
+185000.0;null;175;2;5;3;house;Hammamet;Hammamet Nord
+8000000.0;4;2301;null;null;null;house;La Soukra;La Soukra
+350000.0;2;400;1;null;2;house;null;Kelibia
+2300000.0;7;1400;null;null;null;house;La Soukra;La Soukra
+350000.0;3;120;1;null;null;house;La Marsa;Ain Zaghouan Nord
+850000.0;2;252;1;null;null;house;La Marsa;Gammarth
+140000.0;3;135;1;null;null;house;Hammamet;Hammamet
+1200000.0;3;500;null;null;null;house;La Soukra;Chotrana 3
+1800000.0;5;195;null;null;null;house;La Marsa;Gammarth
+1600000.0;2;180;null;null;null;house;La Marsa;La Marsa
+980000.0;8;500;null;null;null;house;La Soukra;La Soukra
+960000.0;3;400;3;4;null;house;La Marsa;Gammarth
+3900000.0;null;null;null;null;null;house;null;La Marsa
+197000.0;3;154;2;null;null;house;La Marsa;Bhar Lazreg
+600000.0;null;185;4;5;4;apartment;La Marsa;Sidi Daoued
+270000.0;7;193;2;7;null;house;Tunis;Maakel Ezzaim
+240000.0;null;170;2;5;5;house;null;Kelibia
+520000.0;7;220;2;null;6;house;Le Bardo;Le Bardo
+1100000.0;null;160;2;5;3;apartment;Le Kram;Les Jardins de Carthage
+null;12;660;6;null;null;house;Monastir Ville;Monastir Ville
+355000.0;null;200;null;4;3;house;Ariana Ville;Ariana
+null;2;242;1;3;null;house;Carthage;El Yasmina
+7500.0;6;420;4;null;null;house;La Marsa;Cite Les Pins
+12000000.0;12;68000;null;null;null;house;La Soukra;La Soukra
+950000.0;20;307;9;20;null;house;Tunis;Bab Bhar
+1550000.0;6;664;3;null;5;house;El Menzah;El Menzah 1
+395000.0;3;100;2;null;2;house;Hammamet;Hammamet
+175000.0;null;120;null;5;3;house;La Soukra;La Soukra
+null;2;100;1;null;null;house;Mnihla;Mnihla
+null;3;650;2;null;4;house;La Soukra;La Soukra
+230000.0;null;124;2;3;2;house;La Soukra;La Soukra
+749000.0;6;800;4;null;5;house;Hammamet;Hammamet
+430000.0;3;160;3;null;null;house;Djerba;Djerba
+255000.0;2;210;1;3;null;house;null;Hammam Ghezeze
+785000.0;4;212;4;null;null;house;El Menzah;El Menzah 9
+240000.0;2;160;1;null;null;house;null;Kelibia
+1450000.0;5;400;2;null;null;house;El Menzah;Mutuelle Ville
+450000.0;5;160;5;5;null;house;null;Hammam El Ghezaz
+null;4;288;1;null;null;house;Hammamet;Hammamet Sud
+700000.0;5;234;3;null;null;apartment;La Soukra;La Soukra
+350000.0;11;150;2;null;null;house;La Marsa;Aouina
+680000.0;5;514;1;null;null;house;La Soukra;Borj Louzir
+null;null;1;2;4;3;house;Le Kram;Les Jardins de Carthage
+800000.0;6;304;4;null;null;apartment;La Soukra;Chotrana 3
+485000.0;null;402;1;5;4;house;null;Raoued
+235000.0;null;175;1;5;4;house;Tabarka;Tabarka Ville
+null;3;130;1;null;2;house;Carthage;Amilcar
+480000.0;8;500;null;null;null;house;La Manouba;La Manouba
+350000.0;7;240;2;null;null;apartment;Djerba;Djerba
+null;5;256;3;null;null;house;Mnihla;Cite Rafaha
+220000.0;1;200;1;null;1;house;Sousse Ville;Sousse Ville
+170000.0;null;106;1;5;2;house;null;Kélibia
+550000.0;4;490;1;null;null;house;Sousse Ville;Sousse Ville
+570000.0;3;820;2;null;null;house;null;Menzel Temime
+388000.0;3;220;2;5;null;house;Rades;Rades
+600000.0;5;230;2;null;null;house;Hammam Lif;Hammam Lif
+230000.0;3;120;2;5;null;house;El Omrane Superieur;El Omrane Superieur
+420000.0;7;400;3;3;null;house;Sousse Ville;Sousse Ville
+null;12;170;2;null;null;house;El Omrane Superieur;El Nassim
+270000.0;8;190;2;null;null;house;La Soukra;Cite de l'aéroport
+565000.0;null;250;1;4;3;house;Sousse Ville;Bouhssina
+230000.0;null;245;2;6;5;house;La Soukra;Chotrana 1
+550000.0;4;200;2;null;null;house;Hammamet;Hammamet Nord
+245000.0;null;163;1;null;2;house;Hammamet;Hammamet
+1900000.0;null;1900;3;8;7;apartment;La Soukra;La Soukra
+null;2;512;1;null;null;house;null;Tozeur
+135000.0;2;137;1;1;null;house;null;Hammam El Ghezaz
+1005000.0;null;null;null;null;null;null;Raoued;Raoued
+500000.0;null;260;1;2;2;null;Bizerte Nord;Bizerte Centre Ville
+1600000.0;5;400;3;null;null;house;El Menzah;El Menzah 1
+120000.0;3;120;1;5;null;house;Tebourba;Cite Errimel
+1500000.0;10;440;4;null;9;house;La Marsa;La Marsa
+1500000.0;7;1053;2;null;5;house;Rades;Rades Mongil
+1107000.0;5;599;1;null;null;house;Ariana Ville;El Menzah 5
+900000.0;9;344;1;9;null;house;a;La Med
+470000.0;null;162;3;7;5;house;null;Ras Jebel
+120000.0;null;123;1;4;3;house;Raoued;Raoued
+1260000.0;5;531;3;7;null;apartment;Le Bardo;Le Bardo
+null;1;245;3;null;3;house;Hammamet;Hammamet Nord
+170000.0;2;124;1;1;null;house;null;Hammam El Ghezaz
+250000.0;6;400;1;null;null;house;Hammamet;Hammamet
+280000.0;6;240;2;null;null;house;null;Kélibia
+270000.0;5;200;2;null;null;house;Djerba;Djerba
+400000.0;7;900;2;null;3;house;Djerba;Djerba
+550000.0;3;240;2;4;null;house;Hammamet;Hammamet Nord
+50000.0;null;135;1;1;1;house;null;El Haouaria
+600000.0;null;930;null;6;3;house;Djerba;Djerba
+390000.0;12;398;3;null;null;house;Raoued;Raoued
+190000.0;null;100;1;3;2;house;Djerba;Djerba
+1390000.0;null;562;4;6;4;house;El Menzah;El Manar 1
+450000.0;null;250;2;5;5;house;Mahdia Ville;Mahdia Ville
+3720000.0;4;130;2;null;null;house;Houmt Souk;Houmt Souk
+200000.0;null;119;1;4;2;house;null;Ksar Hellal
+null;4;150;null;null;null;apartment;null;Le Kram
+null;null;320;4;6;4;apartment;Carthage;Sidi Bousaid
+115000.0;2;105;1;null;null;house;Sousse Riadh;Sousse Riadh
+360000.0;4;220;1;null;4;house;Sousse Ville;Sousse Ville
+2200000.0;4;125;2;5;null;house;Carthage;Sidi Bousaid
+980000.0;6;543;3;6;null;house;null;Ksar Hellal
+280000.0;4;207;2;null;null;house;Raoued;Raoued
+null;4;160;2;null;null;house;Sfax Sud;Sfax Sud
+65000.0;2;180;1;null;null;house;null;Hammam El Ghezaz
+700000.0;7;5300;3;null;5;house;Djerba;Djerba
+750000.0;6;440;4;8;null;house;Akouda;Chott Meriem
+null;4;200;3;5;null;house;La Marsa;La Marsa
+1500000.0;7;586;4;10;null;house;Ariana Ville;El Menzah 5
+1750000.0;12;761;4;12;null;house;El Menzah;Mutuelle Ville
+180000.0;3;150;1;null;null;house;null;Bir Bouregba
+680000.0;4;200;null;5;null;house;La Marsa;Ain Zaghouan Nord
+570000.0;5;240;2;null;4;house;La Marsa;Ain Zaghouan Nord
+550000.0;null;null;null;null;null;null;null;Ras Jebel
+380000.0;3;257;1;null;null;house;Hammamet;Hammamet
+250000.0;6;294;null;3;null;house;Sousse Riadh;Sousse Riadh
+200000.0;3;708;1;4;null;house;Hammamet;Hammamet Sud
+340000.0;4;254;1;null;null;apartment;Boumhel;Boumhel 
+200000.0;4;200;2;null;null;house;Sousse Riadh;Sousse Riadh
+490000.0;4;555;1;null;null;house;La Soukra;Sidi Soufiene
+450000.0;3;800;2;3;null;house;Hammamet;Hammamet
+255000.0;null;300;2;1;3;house;Sousse Riadh;Sousse Riadh
+6500000.0;null;790;1;4;3;house;Carthage;Carthage
+920000.0;13;530;5;null;null;house;Sousse Jaouhara;Sahloul
+1200000.0;12;636;6;null;null;house;Sousse Ville;Sousse Ville
+320000.0;5;200;2;null;null;house;Sousse Ville;Sahloul
+910000.0;null;607;2;5;3;house;El Omrane;El Omrane
+1200000.0;15;480;4;null;null;house;Hammam Sousse;El Kantaoui
+null;4;130;2;null;null;house;La Marsa;Cite Du Stade
+880000.0;4;594;3;null;null;house;Hammamet;Hammamet Sud
+450000.0;4;300;1;null;null;apartment;Ariana Ville;Ariana
+null;3;100;2;4;null;apartment;Midoun;Midoune
+165000.0;null;130;1;6;5;house;Hammam Sousse;Hammam Sousse
+890000.0;5;243;4;null;null;house;La Marsa;Cité des Juges
+490000.0;4;326;2;null;3;house;La Marsa;Bhar Lazreg
+null;null;null;null;null;null;null;Ariana Ville;Ariana
+760000.0;null;5330;3;9;5;house;Houmt Souk;Sidi Jmour
+null;4;220;1;null;null;house;Mohamadia;Cite Tnich
+139900.0;5;200;1;null;null;house;Djerba;Djerba
+null;4;472;2;null;3;house;Raoued;Cite el Ghazela
+380000.0;8;150;3;null;null;house;Djerba;Djerba
+300000.0;4;130;1;null;null;house;El Kabaria;Ibn Sina
+null;null;163;1;3;1;house;Hammamet;Hammamet
+365000.0;null;300;2;4;3;house;Ariana Ville;Riadh al Andalous
+350000.0;null;154;2;null;4;house;Bizerte Nord;Bizerte
+260000.0;4;224;2;null;null;house;Hammamet;Hammamet
+400000.0;8;1040;3;null;null;house;Midoun;Midoune
+500000.0;7;626;2;null;3;house;Midoun;Midoune
+430000.0;5;336;2;6;null;house;La Marsa;Sidi Daoued
+550000.0;null;143;3;4;4;house;La Marsa;Sidi Daoued
+235000.0;4;156;1;null;null;house;Hammamet;Hammamet
+325000.0;3;90;2;null;null;house;Hammamet;Hammamet
+1700000.0;4;235;4;4;null;apartment;La Marsa;La Marsa
+690000.0;4;280;3;null;3;house;La Marsa;Ain Zaghouan Nord
+850000.0;4;140;3;null;null;house;La Marsa;La Marsa
+1300000.0;3;495;3;4;null;house;Sousse Ville;Sahloul
+1300000.0;5;430;2;null;null;apartment;La Soukra;La Soukra
+470000.0;9;101;2;null;7;house;La Marsa;Bhar Lazreg
+2600000.0;5;400;4;7;null;house;La Marsa;La Marsa
+980000.0;null;400;2;6;5;house;Sousse Ville;Sahloul
+null;5;96;1;null;null;house;Bizerte Nord;Bizerte Centre Ville
+366500.0;13;210;4;null;null;house;Cite El Khadra;Cite El Khadra
+720000.0;5;242;3;null;null;house;La Soukra;La Soukra
+null;6;309;1;null;null;house;Bizerte Nord;Bizerte
+null;2;600;1;3;null;house;Hammamet;Hammamet
+null;3;219;1;3;null;apartment;Raoued;Cite des Juges
+520000.0;4;430;2;null;3;apartment;Bizerte Nord;Bizerte
+260000.0;null;360;null;4;9;house;Sousse Riadh;Sousse Riadh
+450000.0;4;305;3;7;null;house;Bizerte Nord;Cité du Lac
+240000.0;3;200;1;null;null;house;Hammamet;Hammamet
+850000.0;8;360;null;null;null;house;Bizerte Nord;Bizerte
+350000.0;4;170;1;null;2;house;Bizerte Nord;Bizerte
+null;null;120;4;4;8;house;null;Aïn Draham
+397000.0;3;408;1;4;null;house;null;Soliman
+310000.0;null;143;2;3;2;house;La Soukra;La Soukra
+180000.0;null;230;2;3;2;house;Hammam Sousse;Hammam Sousse
+700000.0;null;1785;2;null;4;house;Midoun;Zone touristique
+270000.0;3;311;3;null;3;house;Sidi Thabet;Sidi Thabet
+450000.0;3;170;1;null;null;house;Hammamet;Hammamet
+2000000.0;6;900;4;8;null;house;El Menzah;Mutuelle Ville
+140000.0;10;1177;2;null;null;house;Hammamet;Hammamet
+880000.0;5;360;1;null;null;house;Akouda;Chott Meriem
+590000.0;null;400;3;null;3;house;Hammamet;Hammamet Sud
+799000.0;null;null;null;null;null;null;Raoued;Raoued
+null;5;548;2;null;null;house;La Marsa;La Marsa
+850000.0;6;280;4;null;null;house;Sousse Ville;Sousse Ville
+190000.0;3;65;1;null;2;house;Bizerte Nord;Bizerte
+750000.0;9;568;3;null;null;house;Raoued;Cite el Ghazela
+570000.0;null;300;null;9;5;house;Djerba;Djerba
+320000.0;6;220;2;null;null;house;Boumhel;Boumhel 
+790000.0;null;529;null;4;3;house;Hammamet;Hammamet
+560000.0;null;117;3;4;3;Apartment;Hammamet;Hammamet Nord
+null;3;120;2;1;null;house;null;Sijoumi
+null;4;250;1;null;null;house;Tunis;Sidi Bahri
+220000.0;4;190;1;null;null;house;Raoued;Cite El Wafa
+680000.0;5;477;null;6;null;house;Sousse Ville;Sahloul
+170000.0;1;40;1;2;null;house;Hammamet;Hammamet Nord
+435000.0;6;190;3;null;5;house;Sousse Ville;Sousse Medina
+null;3;100;1;null;null;apartment;La Manouba;La Manouba
+1100000.0;null;500;null;10;6;house;Le Kram;Les Jardins de Carthage
+150000.0;2;260;1;1;null;house;null;Kalaa Kebira
+430000.0;null;160;2;4;3;apartment;Midoun;Midoune
+260000.0;4;200;2;null;null;house;Raoued;Ariana Essoghra
+140000.0;4;106;2;6;null;house;Mohamadia;Mohamadia
+730000.0;null;380;3;13;13;house;El Ouardia;El Ouardia
+1100000.0;4;544;2;null;null;house;Le Bardo;Le Bardo
+80000.0;null;103;1;2;2;house;null;Kelibia
+129000.0;null;120;1;4;4;house;null;Kelibia
+360000.0;5;300;2;null;null;house;Raoued;Cite des Juges
+660000.0;4;240;4;5;null;house;Boumhel ;Cite El Bassatine Ancien 
+370000.0;3;200;2;null;null;house;Nabeul;Nabeul
+null;4;193;2;null;null;house;La Marsa;La Marsa
+545000.0;4;1250;2;null;null;house;null;Bou Argoub
+120000.0;3;150;2;4;null;house;Boumhel;Boumhel 
+650000.0;9;500;3;15;null;house;Hammam Chatt;Borj Cedria
+null;2;100;1;3;null;house;Hammamet;Hammamet
+580000.0;4;166;5;5;null;apartment;Hammamet;Hammamet Sud
+null;null;265;2;null;3;house;Sousse Jaouhara;Sousse Jaouhara
+null;4;520;4;7;null;house;Nabeul;Nabeul
+720000.0;5;242;3;null;null;house;La Soukra;La Soukra
+360000.0;3;300;1;3;null;house;Raoued;Raoued
+850000.0;10;1000;4;null;null;house;Raoued;Raoued
+660000.0;5;300;2;null;null;house;La Marsa;La Marsa
+null;null;null;null;null;null;null;Monastir Ville;Monastir Ville
+1400000.0;10;250;2;null;null;house;Le Bardo;Le Bardo
+520000.0;3;412;2;null;null;house;Raoued;Cite el Ghazela
+250000.0;4;280;1;null;null;house;Monastir Ville;Monastir Ville
+680000.0;null;410;3;13;8;house;El Omrane;El Omrane
+380000.0;5;207;1;null;3;house;Raoued;Cite Ennkhilet
+1250000.0;5;380;null;6;null;apartment;Le Kram;Les Jardins de Carthage
+1650000.0;7;440;3;null;null;house;La Marsa;La Marsa
+550000.0;10;341;4;null;null;house;e;Megrine Riadh inMégr
+820000.0;5;485;3;null;null;house;Raoued;Raoued
+null;5;660;null;null;null;house;La Marsa;La Marsa
+null;null;null;null;null;null;null;La Marsa;Aouina
+205000.0;null;180;2;null;2;house;null;Hammam El Ghezaz
+null;null;208;3;null;8;house;Rades;Cite Ennour
+850000.0;6;443;null;8;null;house;Le Bardo;Le Bardo
+null;4;184;1;null;null;house;Rades;Rades Plage
+590000.0;null;306;null;8;5;house;La Soukra;Borj Louzir
+550000.0;4;265;4;null;null;house;Nabeul;Nabeul
+1350000.0;null;270;null;5;3;house;Carthage;Amilcar
+690000.0;6;400;2;null;null;house;El Omrane;El Omrane
+520000.0;8;300;4;12;null;house;Raoued;Raoued
+350000.0;null;240;1;2;2;house;null;Hammam El Ghezaz
+4000000.0;null;1200;1;3;3;Residence;La Marsa;Gammarth Superieur
+800000.0;11;416;3;null;9;house;null;Bizerte
+620000.0;5;427;3;6;null;house;El Mourouj;El Mourouj 1
+200000.0;3;140;1;null;null;house;Kalaat Landalous;Cite El Oulja
+500000.0;null;267;2;null;4;house;Le Bardo;Le Bardo
+1100000.0;5;600;2;null;null;house;La Soukra;La Soukra
+null;6;500;4;null;5;house;Le Kram;Les Jardins de Carthage
+125000.0;6;225;2;3;null;house;null;Soliman
+450000.0;null;200;2;5;4;house;Tunis;La Medina
+350000.0;3;209;2;null;null;house;null;Kélibia
+880000.0;7;500;null;17;null;house;Ariana Ville;Ariana
+1300000.0;5;645;2;null;null;house;El Menzah;El Manar 1
+230000.0;null;118;1;2;1;house;Hammamet;Hammamet
+920000.0;5;500;2;null;null;house;Hammamet;Hammamet
+180000.0;4;130;2;null;null;house;null;Kélibia
+null;null;1100;4;7;6;house;La Soukra;La Soukra
+325000.0;2;140;1;4;null;house;Hammamet;Hammamet
+null;1;200;3;null;3;house;La Marsa;Ain Zaghouan Nord
+80000.0;3;150;1;8;null;house;null;Kalaa Sghira
+340000.0;null;333;1;3;2;house;Raoued;Cite el Ghazela
+550000.0;4;300;2;7;null;house;Ettadhamen;Cite Ettadhamen
+247000.0;null;229;1;2;1;apartment;Midoun;Midoune
+550000.0;4;151;null;4;null;house;La Marsa;La Marsa
+1250000.0;null;530;null;5;6;house;Le Bardo;Le Bardo
+169000.0;3;120;1;null;null;house;Boumhel ;Boumhel 
+330000.0;null;148;2;2;6;house;null;Kalaa Sghira
+1400000.0;null;682;3;6;3;house;El Menzah;El Menzah 1
+425000.0;3;144;2;4;null;house;La Soukra;La Soukra
+190000.0;3;420;2;null;null;house;Akouda;Akouda
+1500000.0;4;467;null;null;null;house;Le Kram;Les Jardins de Carthage
+716700.0;4;184;3;null;null;apartment;La Soukra;Chotrana 1
+180000.0;null;161;1;3;2;house;null;Kelibia
+230000.0;4;200;1;null;null;house;null;Mahdia
+null;5;200;2;null;null;house;El Kabaria;Ibn Sina
+7000000.0;null;null;null;null;null;null;Carthage;Carthage
+192000.0;null;80;1;5;2;house;Mahdia Ville;Mahdia Ville
+null;3;200;1;null;null;house;null;Soliman
+480000.0;4;160;2;null;null;house;El Menzah;El Manar 1
+310000.0;3;141;2;4;null;house;Tunis;Montfleury
+340000.0;2;142;2;null;2;house;Raoued;Cite el Ghazela
+360000.0;null;159;1;3;2;house;null;Barraket Essahel
+1350000.0;6;611;3;null;5;house;El Menzah;El Menzah 4
+null;7;300;2;8;null;house;Bizerte Nord;Bizerte
+550000.0;4;240;1;null;null;house;Hammamet;Hammamet
+155000.0;5;144;1;null;null;house;Hammam Sousse;Hammam Sousse
+750000.0;4;210;1;null;null;house;Carthage;Salambo
+950000.0;null;60;2;5;3;house;Hammamet;Hammamet
+600000.0;null;123;2;5;2;house;Hammamet;Hammamet
+280000.0;2;80;1;3;null;house;Le Bardo;Bouchoucha
+270000.0;2;300;1;3;null;house;null;Ghar El Melh
+1500000.0;3;150;2;4;null;house;Hammamet;Hammamet
+550000.0;4;151;2;null;3;house;La Marsa;Cite des Juges
+190000.0;3;120;2;null;null;house;Raoued;Raoued
+null;null;200;1;null;2;house;null;Takelsa
+600000.0;null;123;1;3;2;house;Carthage;Sidi Bousaid
+680000.0;4;360;2;null;null;house;Hammamet;Hammamet
+420000.0;4;120;2;5;null;house;Carthage;El Yasmina
+null;4;140;1;null;null;house;La Soukra;Dar Fadhal
+null;null;100;1;2;1;house;Raoued;Cite des Juges
+130000.0;2;121;1;3;null;house;Bizerte Nord;Bizerte
+350000.0;3;400;1;null;null;house;Le Bardo;Le Bardo
+670000.0;null;827;2;4;3;house;La Manouba;La Manouba
+1300000.0;3;493;3;7;null;house;La Soukra;La Soukra
+305000.0;4;230;4;null;null;house;La Soukra;Sidi Frej
+3500000.0;9;475;4;13;null;house;La Marsa;La Marsa
+1180000.0;null;1150;2;7;5;house;La Soukra;La Soukra
+250000.0;2;500;1;3;null;house;null;Kelibia
+500000.0;4;526;1;null;null;apartment;Hammam Lif;Hammam Lif
+3200000.0;5;700;null;null;null;house;La Marsa;La Marsa
+null;null;300;1;6;5;house;Tunis;La Medina
+375000.0;3;367;2;null;3;house;Ariana Ville;Ariana
+250000.0;3;160;null;4;null;house;El Mourouj;El Mourouj 5
+490000.0;6;516;1;null;6;house;null;Zarzouna
+280000.0;3;130;1;null;null;house;Le Bardo;Le Bardo
+370000.0;3;300;1;null;null;house;Le Bardo;Le Bardo
+900000.0;11;500;2;null;null;house;Ariana Ville;Riadh al Andalous
+300000.0;5;175;3;null;null;apartment;Nouvelle Medina;Nouvelle Medina 
+1600000.0;12;400;2;null;null;house;Le Kram;Le Kram
+null;2;139;1;null;null;apartment;Douar Hicher;Cité Khaled Ibn El Walid
+null;2;130;1;null;null;house;Ben Arous;Ben Arous
+340000.0;3;203;1;4;null;house;Hammamet;Hammamet
+240000.0;3;220;2;1;null;house;Kalaat Landalous;Cite El Fejja
+null;null;350;3;8;6;house;Nouvelle Medina;El Yasminette 
+null;2;200;1;null;null;house;Ben Arous;Ben Arous Sud
+null;5;396;3;10;null;house;Mornag;Mornag
+1320000.0;null;625;2;8;7;house;El Aouina;El Aouina
+140000.0;5;82;2;null;null;house;Nouvelle Medina;El Yasminette
+150000.0;null;80;3;4;4;house;Oued Ellil;Oued Ellil
+1400000.0;null;292;1;3;3;house;Le Kram;Les Jardins de Carthage
+750000.0;4;215;2;null;null;apartment;La Soukra;La Soukra
+1200000.0;3;242;3;null;null;apartment;La Marsa;Gammarth
+560000.0;2;193;2;null;null;house;Raoued;Raoued
+716700.0;3;184;2;3;null;apartment;La Soukra;Chotrana 1
+550000.0;6;288;2;null;null;house;Nabeul;Nabeul
+160000.0;4;100;null;null;null;house;Nabeul;Nabeul
+null;8;500;3;null;null;house;Nabeul;Nabeul
+350000.0;4;135;2;6;null;house;El Omrane Superieur;El Omrane Supérieur
+185000.0;1;60;1;2;null;house;Hammamet;Hammamet
+190000.0;4;130;2;null;null;house;Raoued;Raoued
+650000.0;3;350;3;null;null;house;Hammamet;Hammamet
+345000.0;null;220;2;5;4;house;El Omrane Superieur;Cité Ubn Khaldoun
+1400000.0;5;200;1;6;null;house;La Soukra;La Soukra
+650000.0;5;225;2;null;null;apartment;La Marsa;Bhar Lazreg
+135000.0;2;90;1;null;null;house;null;Kélibia
+null;7;1100;4;null;null;house;La Marsa;Gammarth
+500000.0;null;300;3;9;6;house;El Mourouj;Cité Taher Haddad
+750000.0;5;517;3;7;null;house;null;El Haouaria
+580000.0;4;327;2;null;null;house;Hammam Sousse;Hammam Sousse
+500000.0;null;500;1;5;4;house;Hammam Lif;Hammam Lif
+null;8;120;2;null;null;house;Tunis;Maakel Ezzaim
+350000.0;5;180;2;null;null;house;La Marsa;Cité El Khalil
+null;9;204;3;null;null;apartment;Hammam Chatt;Borj Cedria
+285000.0;4;180;4;3;null;house;Cite El Khadra;Cite El Khadra
+210000.0;null;252;1;4;2;house;Sousse Ville;Sousse Ville
+330000.0;null;200;1;4;3;house;Rades;Radès
+530000.0;6;380;3;null;null;house;Raoued;Raoued
+289000.0;null;400;null;3;2;house;Midoun;Midoune
+569000.0;4;467;3;null;null;house;null;Ksar Hellal
+245000.0;4;179;1;null;3;house;null;Dar Châabane
+260000.0;null;260;2;1;3;house;Hammamet;Hammamet
+430000.0;5;200;2;null;null;house;Ariana Ville;Cite Ennasr 2
+320000.0;7;260;2;null;null;house;null;Ghar El Melh
+90000.0;null;null;null;null;null;null;Mednine;Mednine
+158000.0;null;345;1;4;3;house;Mornage;Sidi Saad
+null;4;100;1;4;null;house;El Omrane Superieur;El Omrane Superieur
+75500.0;null;36;1;null;1;house;Mahdia Ville;Mahdia Ville
+null;null;610;3;8;4;house;Hammamet;Hammamet
+1200000.0;null;300;3;5;4;apartment;Le Kram;Les Jardins de Carthage
+null;2;109;1;5;null;house;Hammamet;Hammamet
+null;7;200;2;null;null;house;Hammamet;Hammamet
+null;5;210;1;null;null;house;Hammamet;Hammamet
+350000.0;2;210;1;3;null;house;Megrine ;Megrine 
+120000.0;3;88;1;null;null;house;null;Ras Jebel
+1800000.0;6;525;3;null;5;apartment;Carthage;Carthage
+300000.0;3;200;null;4;null;house;El Omrane Superieur;El Omrane Superieur
+220000.0;4;140;2;5;null;house;Boumhel;Boumhel
+320000.0;9;240;3;null;null;house;El Omrane Superieur;El Omrane Supérieur
+750000.0;null;980;5;1;13;house;null;Korba
+392970.0;6;270;1;null;null;house;Djerba;Djerba
+1200000.0;3;312;3;null;null;apartment;La Marsa;Gammarth
+217000.0;null;139;null;9;7;house;Tunis;Montfleury
+3512000.0;6;1705;3;7;null;house;El Menzah;El Menzah 1
+490000.0;2;300;2;3;null;house;Hammamet;Hammamet Nord
+null;null;241;2;null;10;house;null;Aïn Draham
+130000.0;6;200;2;null;4;house;Hammamet;Hammamet Nord
+240000.0;7;100;2;null;null;house;Hammamet;Hammamet
+520000.0;2;260;2;3;null;house;null;Bizerte
+null;7;850;3;null;null;house;La Marsa;La Marsa
+null;6;210;2;null;null;house;Le Kram;Les Jardins de Carthage
+250000.0;3;160;1;1;null;house;La Marsa;Gammarth
+320000.0;5;240;3;null;null;house;Raoued;Raoued
+500000.0;6;1;2;null;4;house;Midoun;Zone touristique
+280000.0;4;300;2;null;null;house;Raoued;Jaafar
+350000.0;2;160;2;null;6;house;Kalaat Landalous;Kalaat Landalous
+null;6;500;2;null;null;house;null;Ghar El Melh
+80000.0;null;null;null;null;null;null;null;Grombalia
+595000.0;null;380;2;4;4;house;null;Gafsa Sud
+400000.0;null;300;1;7;3;house;Akouda;Chott Meriem
+300000.0;null;200;1;2;1;house;null;Kelibia
+480000.0;null;200;1;4;3;house;Sousse Riadh;Sousse Riadh
+530000.0;5;200;3;null;null;apartment;Ariana Ville;El Menzah 8
+325000.0;3;200;1;4;null;house;Hammamet;Hammamet
+null;6;70;3;null;null;house;El Ouardia;Lakanya
+500000.0;2;323;1;4;null;house;La Soukra;Dar Fadhal
+470000.0;6;197;2;null;null;house;Tunis;La Medina
+1200000.0;4;270;2;null;3;house;La Marsa;Gammarth
+380000.0;2;150;1;3;null;house;null;Kelibia
+250000.0;null;230;1;3;2;house;Raoued;Cite El Wafa
+320000.0;6;150;null;6;null;house;El Omrane Superieur;El Omrane Superieur
+800000.0;6;304;4;null;null;house;La Soukra;Chotrana 3
+1200000.0;8;300;null;null;null;house;Bizerte Nord;Bizerte
+1100000.0;1;470;1;null;null;house;Cite El Khadra;Cite Jardins
+null;null;80;1;5;3;house;El Kabaria;El Kabaria
+890000.0;4;250;1;null;3;house;Monastir Ville;Zone Touristique
+220000.0;3;120;null;5;null;house;El Mourouj;El Mourouj 3
+380000.0;5;350;2;null;null;house;Ariana Ville;Ariana
+780000.0;5;403;3;null;null;house;null;Cite Ettahrir
+null;6;165;2;null;3;house;Sakiet Ezzit;Sakiet Ezzit
+null;5;750;3;null;null;apartment;Raoued;Raoued
+400000.0;2;226;1;3;null;house;Le Kram;Le Kram
+370000.0;null;320;null;7;5;house;Ben Arous;Ben Arous
+345000.0;null;133;1;4;3;house;Rades;Cite Taieb Mhiri 1
+250000.0;null;310;3;9;6;house;Nouvelle Medina;Nouvelle Medina 
+320000.0;6;80;2;null;null;house;Djerba;Djerba
+600000.0;null;452;2;null;3;house;Raoued;Cite Ennkhilet
+220000.0;null;110;2;1;4;house;Le Kram;Le Kram
+1300000.0;null;550;4;9;5;house;El Menzah;El Menzah 9
+1100000.0;10;262;3;14;null;house;Tunis;Maakel Ezzaim
+495000.0;7;300;1;null;null;house;Raoued;Cite el Ghazela
+200000.0;2;179;2;3;null;house;null;Hammam El Ghezaz
+null;3;245;2;null;null;house;null;Ghar El Melh
+250000.0;9;300;3;null;null;house;Hammam Chatt;Borj Cedria
+null;5;115;2;1;null;house;La Manouba;La Manouba
+null;3;245;2;1;null;house;null;Ghar El Melh
+175000.0;6;180;2;null;null;house;Sousse Ville;Sousse Ville
+null;8;390;1;null;null;apartment;Raoued;Raoued
+180000.0;3;165;1;null;null;house;Hammamet;Hammamet
+540000.0;8;2500;4;null;7;house;Mornag;El Alelgua
+null;2;160;1;3;null;house;Oued Ellil;Oued Ellil
+550000.0;6;288;1;null;null;house;Boumhel;Bou Mhel 
+null;null;165;5;null;9;house;Sousse Riadh;Sousse Riadh
+260000.0;null;300;1;4;2;house;Djerba;Djerba
+320000.0;3;185;2;null;null;house;Sousse Riadh;Sousse Riadh
+100000.0;2;750;1;2;null;house;null;Chebba
+3000000.0;6;1100;null;null;null;house;La Soukra;La Soukra
+null;null;65;1;null;3;house;Tunis;Bab El Assal
+800000.0;3;150;1;null;null;house;Akouda;Chott Meriem
+480000.0;2;225;2;3;null;house;Nabeul;Cite El Wafa
+350000.0;7;178;3;null;3;house;Hammamet;Hammamet
+340000.0;6;230;2;5;null;house;El Ouardia;El Ouardia
+120000.0;2;512;1;null;null;house;null;Zone Touristique
+310000.0;3;200;2;4;null;house;Ben Arous;Ben Arous
+1800000.0;5;100;null;null;null;house;La Marsa;Gammarth
+890000.0;null;340;null;4;3;house;Ariana Ville;Cite Ennasr 2
+null;null;300;1;6;5;house;a;La Med
+760000.0;null;230;null;4;3;apartment;El Menzah;El Menzah 9
+400000.0;10;240;1;null;null;house;Akouda;Chott Meriem
+4800000.0;6;1350;4;null;null;house;La Marsa;Les Berges Du Lac 1
+300000.0;null;156;1;null;6;house;null;Dar Chaabane
+920000.0;null;540;null;6;5;house;El Menzah;El Manar 1
+null;null;null;null;null;null;null;null;Mahdia
+600000.0;4;250;null;null;null;house;La Marsa;La Marsa
+850000.0;3;108;3;4;null;house;La Marsa;La Marsa
+1500000.0;4;440;2;5;null;house;La Marsa;La Marsa
+300000.0;7;150;1;null;null;house;La Manouba;La Manouba
+null;null;null;null;null;null;null;Sfax Ville;Avenue Teboulbi
+280000.0;null;null;null;null;null;null;Sfax Ville;Avenue Teboulbi
+490000.0;3;320;null;null;null;house;null;Akouda
+330000.0;3;158;null;null;null;house;null;Hergla
+620000.0;4;280;null;null;null;house;null;Hergla
+500000.0;null;null;null;null;null;null;null;Hergla
+900000.0;4;440;null;null;null;house;Akouda;Akouda
+195000.0;2;null;null;null;null;house;Akouda;Tantana
+550000.0;3;160;null;null;null;house;Hammam Sousse;Hammam Sousse
+350000.0;1;116;null;null;null;house;null;Hammam Sousse
+550000.0;null;500;1;3;2;house;Raoued;Cite Ennkhilet
+1900000.0;8;600;3;null;null;house;null;Ariana Ville
+1450000.0;1;367;2;null;3;house;La Marsa;La Marsa
+null;3;140;1;null;null;house;Sidi Hassine;Sidi Hassine 
+480000.0;11;420;6;11;null;house;Raoued;Cite Ennkhilet
+350000.0;3;666;1;null;null;house;Midoun;Mahboubine
+325000.0;null;200;1;5;2;house;Hammamet;Hammamet
+1500000.0;4;630;null;null;null;house;Hammam Sousse;Hammam Sousse
+290000.0;2;165;null;null;null;house;Hammam Sousse;Hammam Sousse
+280000.0;3;202;2;null;null;house;Tunis;Montfleury
+800000.0;5;270;null;null;null;house;null;Akouda
+230000.0;4;108;3;7;null;house;null;Jendouba Ville
+370000.0;4;140;2;null;null;house;La Marsa;Cite El Khalil
+1850000.0;4;1045;2;null;null;house;Ariana Ville;Riadh al Andalous
+350000.0;4;350;2;null;null;house;Bizerte Nord;Bizerte
+590000.0;3;200;4;null;null;house;Sousse Ville;Sahloul
+null;null;224;1;null;3;house;Boumhel ;Cite Essalem
+3200000.0;3;616;null;null;null;house;La Marsa;Les Berges Du Lac 2
+850000.0;8;562;2;null;null;house;Hammam Chatt;Hammam Chatt
+620000.0;5;274;2;6;null;house;Ariana Ville;Riadh al Andalous
+400000.0;4;271;1;8;null;house;Tunis;Sidi Mansour
+1900000.0;10;1300;2;null;null;house;Le Bardo;Le Bardo
+1050000.0;4;541;2;6;null;house;Le Bardo;Le Bardo
+480000.0;5;197;2;null;null;house;Raoued;Ariana Essoghra
+750000.0;null;500;4;9;8;house;El Mourouj;El Mourouj 6
+620000.0;10;420;5;13;null;apartment;Sousse Ville;Sousse Medina
+55000.0;2;65;1;null;null;apartment;null;Ras Jebel
+52000.0;2;65;1;null;null;house;null;Ras Jebel
+null;10;500;6;null;null;apartment;Boumhel ;Bou Mhel 
+66000.0;7;150;3;null;null;house;Sidi Hassine;Cité El Mistiri inSidi Hass
+280000.0;6;190;2;null;null;house;El Ouardia;El Ouardia
+110000.0;3;150;1;null;null;house;Raoued;Raoued
+null;3;100;2;null;null;house;La Marsa;Bhar Lazreg
+470000.0;8;220;2;null;null;house;Rades;Rades Plage
+780000.0;10;550;4;14;null;house;El Mourouj;El Mourouj 2
+null;4;333;2;null;null;house;Ariana Ville;Ariana
+5500000.0;7;1017;4;null;null;house;Carthage;Sidi Bousaid
+null;4;333;2;null;null;house;La Soukra;Borj Louzir
+13000000.0;13;2600;9;null;null;house;Carthage;Sidi Bousaid
+170000.0;null;180;2;4;3;house;null;Kelibia
+250000.0;5;110;2;7;null;house;e;Bou Mhel inBoumhel Bassat
+900000.0;5;220;4;1;null;house;Hammamet;Hammamet
+null;4;150;1;null;null;house;null;Korba
+320000.0;4;230;2;null;3;house;Houmt Souk;Houmt Souk
+160000.0;3;100;2;null;null;house;Raoued;Raoued
+4500000.0;null;1200;5;12;11;house;La Marsa;La Marsa
+294990.0;null;130;1;4;3;house;Midoun;Midoune
+245000.0;4;131;2;null;null;house;null;Kélibia
+1000000.0;null;436;3;4;3;house;Sousse Ville;Sousse Ville
+null;null;null;null;null;null;null;null;Ksar Debab
+167200.0;null;80;1;3;2;house;Djerba;Djerba
+693520.0;4;198;2;5;null;house;Djerba;Djerba
+850000.0;7;690;3;8;null;house;Mornaguia;Mornaguia
+2650000.0;8;3306;3;null;null;house;Raoued;Raoued
+50000000.0;3;105;1;null;null;house;Sousse Ville;Sousse Ville
+350000.0;2;300;1;1;null;house;Hammamet;Hammamet Nord
+140000.0;null;null;null;null;null;null;null;El Haouaria
+550000.0;4;620;1;5;null;house;Ettahrir;Ettahrir
+600000.0;6;350;5;8;null;house;Ben Arous;Ben Arous
+773000.0;null;199;3;5;4;apartment;Hammamet;Hammamet
+50000.0;3;90;1;3;null;house;null;Sijoumi
+null;3;133;1;null;null;house;La Marsa;Cite Du Stade
+650000.0;3;600;2;null;null;house;La Manouba;La Manouba
+365000.0;3;131;1;4;null;house;null;Dar Chaabane
+550000.0;6;335;2;null;null;house;Raoued;Cité el Ghazela
+220000.0;6;221;2;1;null;house;Sfax Ouest;Cité El Bahri
+680000.0;10;400;5;null;null;house;Midoun;Midoune
+null;4;286;4;null;null;house;La Marsa;Sidi Daoued
+990000.0;null;550;6;8;8;house;El Menzah;El Manar 1
+660000.0;5;345;2;null;null;house;La Soukra;Borj Louzir
+240000.0;7;200;4;null;null;house;La Manouba;La Manouba
+null;6;450;2;null;null;apartment;La Marsa;Gammarth
+500000.0;8;260;3;null;null;house;Le Bardo;Le Bardo
+260000.0;null;181;2;5;4;house;El Mourouj;El Mourouj 6
+120000.0;4;139;2;null;null;house;null;Kelibia
+370000.0;2;170;1;null;null;house;null;Kelibia
+123456.0;9;643;6;null;null;house;El Omrane Superieur;El Omrane Supérieur
+560000.0;3;240;2;null;2;house;Hammamet;Hammamet
+630000.0;5;630;1;null;null;house;Sousse Riadh;Sousse Riadh
+550000.0;3;335;2;3;null;house;Raoued;Cite el Ghazela
+499000.0;null;150;2;null;4;house;El Mourouj;El Mourouj 5
+220000.0;4;150;1;null;3;house;Ariana Ville;Ariana
+null;2;200;3;2;null;house;null;Korba
+null;7;197;1;null;null;house;a;La Med
+620000.0;2;420;1;5;null;house;Hammamet;Hammamet
+1100000.0;4;330;3;7;null;house;Carthage;Sidi Bousaid
+350000.0;null;280;2;2;3;house;null;Kelibia
+null;6;100335;3;null;null;house;La Soukra;La Soukra
+null;4;150;1;5;null;house;Sakiet Eddaier;Merkez Kaaniche
+175000.0;4;2200;1;null;null;house;Djerba;Djerba
+85000.0;2;70;1;1;null;house;null;El Haouaria
+270000.0;4;204;1;null;null;house;Fouchana;Zone Industrielle El Meghira
+320000.0;3;271;2;3;null;house;null;Kelibia
+185000.0;3;164;1;4;null;house;Kasserine Nord;Kasserine
+850000.0;null;200;3;5;4;house;La Marsa;La Marsa
+1250000.0;null;396;4;8;10;house;Hammam Sousse;El Kantaoui
+850000.0;5;340;2;null;null;house;Carthage;Salambo
+350000.0;null;101;null;4;3;house;La Marsa;Cite El Hana
+620000.0;null;167;2;3;2;house;Hammamet;Hammamet Nord
+1200000.0;3;270;1;null;2;house;La Marsa;La Marsa
+600000.0;7;253;3;null;null;house;null;Kairouan Sud
+320000.0;15;145;3;null;null;apartment;La Soukra;La Soukra
+3000000.0;null;525;null;null;null;null;Monastir Ville;Skanes
+null;3;356;1;null;null;house;Nouvelle Medina;Nouvelle Medina 
+260000.0;4;267;2;5;null;house;null;Kelibia
+495000.0;4;300;1;null;3;house;La Manouba;La Manouba
+1250000.0;5;800;null;null;null;house;null;La Soukra
+650000.0;4;180;2;null;3;house;La Marsa;La Marsa
+550000.0;4;245;3;null;null;house;Hammamet;Hammamet
+745000.0;null;295;1;4;3;house;La Soukra;Borj Louzir
+260000.0;4;180;2;null;null;house;Nabeul;Nabeul
+750000.0;null;400;2;7;7;house;Ariana Ville;Ariana
+135000.0;null;null;null;null;null;null;Tunis;Sidi Bechir
+null;3;105;1;4;null;house;Hammam Lif;Cite Boussouffara
+220000.0;4;100;1;null;null;house;El Omrane Superieur;El Omrane Superieur
+350000.0;3;130;1;null;null;house;null;Mezraya
+550000.0;4;403;3;6;null;house;La Manouba;La Manouba
+300000.0;null;185;null;6;4;house;Raoued;Raoued
+350000.0;5;250;2;null;4;house;Raoued;Raoued
+1200000.0;8;295;5;null;null;house;El Menzah;El Manar 1
+235000.0;5;174;2;null;null;house;Raoued;Raoued
+2500000.0;10;610;4;null;6;house;Ariana Ville;El Menzah 5
+880000.0;null;500;2;8;6;Residence;null;Raoued
+30000.0;1;103;1;null;null;house;null;Bou Salem
+400000.0;6;400;1;null;5;house;Mornaguia;Mornaguia
+350000.0;null;351;2;2;3;house;Kalaat Landalous;Cite El Mourouj
+1200000.0;6;432;null;6;null;house;Ariana Ville;El Menzah 8
+null;4;211;null;5;null;house;El Hrairia;El Hrairia
+3000000.0;null;850;2;5;4;house;La Marsa;La Marsa
+135000.0;null;150;1;3;2;house;Mohamadia;Mohamadia
+780000.0;6;250;4;null;null;house;La Marsa;Gammarth Superieur
+520000.0;3;326;2;4;null;house;La Marsa;Bhar Lazreg
+245000.0;3;218;1;6;null;house;La Soukra;Borj Louzir
+null;null;246;1;3;2;house;Bizerte Nord;Bizerte
+200000.0;5;140;1;null;null;house;La Manouba;La Manouba
+315000.0;8;800;3;null;null;house;Djerba;Djerba
+299000.0;null;150;4;9;7;house;Sidi Hassine;Sidi Hassine 
+420000.0;null;370;2;6;3;house;Hammamet;Hammamet
+420000.0;null;410;null;16;10;house;Sousse Ville;Sousse Ville
+1350000.0;14;1000;4;null;null;house;La Marsa;Sidi Daoued
+745000.0;4;520;3;5;null;apartment;La Marsa;Bhar Lazreg
+320000.0;3;120;1;null;null;apartment;Boumhel ;Bou Mhel 
+80000.0;2;200;1;3;null;house;Mnihla;Essanhaji
+12345.0;null;549;2;5;4;house;Le Bardo;Le Bardo
+1250000.0;7;387;4;null;null;house;Le Kram;Le Kram
+null;3;210;1;8;null;house;Sakiet Eddaier;Sakiet Eddaier
+230000.0;null;507;1;2;2;house;Midoun;Mahboubine
+950000.0;null;810;4;8;8;house;La Soukra;Chotrana 3
+1100000.0;6;345;2;null;null;house;El Menzah;El Menzah 9
+1800000.0;8;623;2;null;null;house;El Menzah;El Menzah 1
+36000.0;1;75;1;3;null;house;Mahdia Ville;Mahdia Ville
+260000.0;5;180;2;null;null;house;Tunis;Bab Souika
+2000000.0;null;700;null;4;7;house;Ariana Ville;El Menzah 6
+215000.0;null;500;1;5;3;house;Djerba;Djerba
+850000.0;5;null;2;null;null;House;Raoued;Cite el Ghazela
+null;3;350;2;null;null;house;Hammam Sousse;Hammam Sousse
+null;3;165;2;null;2;house;null;Aghir
+750000.0;10;320;null;null;null;house;Bizerte Nord;Bizerte
+230000.0;null;null;null;null;null;null;Hammamet;Hammamet Nord
+215000.0;2;185;1;null;null;house;null;El Haouaria
+650000.0;7;533;3;null;null;apartment;null;Midoun zone touristique
+800000.0;10;440;4;null;null;house;Raoued;Cite Ennkhilet
+380000.0;3;240;2;null;null;house;Sousse Ville;Zaouiet
+230000.0;null;130;2;13;3;house;null;Tantana
+7200000.0;8;1093;4;null;null;apartment;La Marsa;Gammarth Supérieur
+300000.0;8;200;2;null;null;house;Mornaguia;Mornaguia
+135000.0;3;200;1;null;2;house;Mornaguia;Mornaguia
+575000.0;10;715;2;null;4;house;null;Bou Salem
+940000.0;10;350;2;null;null;house;Nouvelle Medina;Nouvelle Medina 
+170000.0;4;80;1;5;null;house;El Hrairia;Ezzouhour 5
+850000.0;4;560;2;null;null;apartment;null;Bizerte
+120000.0;null;120;1;4;3;house;Tunis;Sidi Bechir
+370000.0;5;145;2;null;null;house;Hammamet;Hammamet Nord
+950000.0;4;603;null;8;null;house;Hammamet;Hammamet Nord
+350000.0;null;450;2;7;6;house;a;El Yasminette inNouvelle Med
+570000.0;null;300;3;8;8;house;null;Barraket Essahel
+80000.0;1;197;1;null;1;house;null;Kélibia
+1030000.0;null;600;null;7;7;house;Rades;Rades Mongil
+490000.0;5;375;3;null;null;apartment;Hammamet;Hammamet Nord
+145000.0;null;111;2;10;5;house;La Soukra;Dar Fadhal
+280000.0;4;650;2;null;null;house;Hammamet;Hammamet Sud
+200000.0;null;450;1;4;2;house;Sfax Ouest;Sfax Ouest
+700000.0;4;394;1;null;6;house;Hammam Lif;Bou Kornine
+600000.0;5;379;3;null;null;house;Hammamet;Hammamet
+260000.0;5;125;1;null;null;house;Nabeul;Nabeul
+350000.0;null;165;2;5;4;house;null;Menzel Jemil
+1200000.0;6;650;3;7;null;house;null;Ariana Ville
+2400000.0;5;500;2;null;null;Residence;La Marsa;La Marsa
+290000.0;null;184;2;3;4;house;null;Kélibia
+1236000.0;5;242;2;null;null;apartment;Carthage;Sidi Bousaid
+null;4;200;1;null;null;house;Tunis;Sidi Bechir
+350000.0;null;600;null;4;3;apartment;Midoun;Midoune
+850000.0;4;160;2;null;null;house;La Marsa;Cité Les Pins
+800000.0;5;300;1;null;null;house;null;Bizerte
+1650000.0;null;380;5;6;5;house;Carthage;Sidi Bousaid
+380000.0;4;220;3;6;null;house;Hammamet;Hammamet Nord
+3000000.0;null;450;4;2;6;house;La Marsa;Les Berges Du Lac 1
+420000.0;3;250;1;4;null;house;null;Kelibia
+1450000.0;null;600;null;7;6;house;Ariana Ville;El Menzah 5
+1320000.0;3;320;3;null;null;house;La Soukra;La Soukra
+240000.0;2;160;1;3;null;house;Ettahrir;Ettahrir 1
+400000.0;4;400;2;null;null;house;Djerba;Djerba
+800000.0;5;317;3;6;null;house;La Marsa;Aouina
+1450000.0;4;312;4;5;null;house;La Marsa;Les Berges Du Lac 2
+1200000.0;null;1000;null;7;4;house;Houmt Souk;Zone touristique
+700000.0;7;450;3;null;7;house;Hammam Chatt;Borj Cedria
+115000.0;5;194;2;null;null;house;Oued Ellil;Oued Ellil
+680000.0;5;200;2;null;null;house;La Marsa;Cité El Khalil
+null;6;500;1;null;null;house;Le Bardo;Le Bardo
+270000.0;9;164;2;9;null;house;Tunis;Bab El Khadra
+290000.0;null;95;2;6;4;house;null;Kelibia
+null;4;485;3;null;null;house;Djerba;Djerba
+null;3;177;2;null;null;house;null;Dar Chaabane
+160000.0;1;110;1;null;null;house;Sousse Riadh;Sousse Riadh
+285000.0;null;400;2;5;3;house;Djerba;Djerba
+1250000.0;16;606;7;null;null;house;El Menzah;El Menzah 9
+200000.0;5;1000;1;null;null;house;null;Kelibia
+255000.0;4;200;2;null;null;house;El Mourouj;El Mourouj 1
+420000.0;4;150;1;null;null;house;Raoued;Cite el Ghazela
+370000.0;4;270;null;7;null;house;null;Kelibia
+620000.0;12;420;6;null;null;apartment;Sousse Ville;Sousse Medina
+null;5;280;2;null;5;house;Raoued;Raoued
+null;6;220;3;null;null;house;Nouvelle Medina;El Yasminette
+550000.0;7;270;4;null;5;house;Carthage;Carthage Byrsa
+350000.0;5;246;2;null;3;apartment;La Manouba;La Manouba
+230000.0;6;320;null;9;null;house;Hammamet;Hammamet
+23413000.0;3;610;1;1;null;house;Sidi Thabet;Cite El Bokri
+null;6;280;2;1;null;house;Fouchana;Cite Brim
+2000000.0;null;475;2;7;5;house;null;Cite El Menzah
+null;null;128;4;null;6;house;null;Kelibia
+850000.0;4;352;2;null;null;house;Hammamet;Hammamet Nord
+820000.0;null;177;3;6;5;house;Hammamet;Hammamet
+1700000.0;6;580;3;null;null;house;El Menzah;Mutuelle Ville
+570000.0;4;200;2;null;null;house;Hammamet;Hammamet Nord
+300000000.0;7;116;4;null;null;house;Douar Hicher;Douar Hicher
+null;7;250;2;null;null;house;La Manouba;La Manouba
+280000.0;4;180;1;5;null;house;null;Kairouan Nord
+540000.0;7;270;3;null;null;house;Le Kram;Le Kram
+550000.0;10;306;2;null;null;house;El Omrane Superieur;Cité El Intilaka
+700000.0;10;600;2;null;null;house;null;Ghar El Melh
+3300000.0;4;480;null;6;null;house;La Marsa;La Marsa
+290000.0;null;90;3;2;3;apartment;Nouvelle Medina;Nouvelle Medina 
+450000.0;null;225;2;7;5;house;El Ouardia;El Ouardia
+400000.0;8;300;2;null;6;apartment;Mornaguia;Mornaguia
+1500000.0;8;605;2;null;null;house;El Menzah;El Manar 3
+null;5;230;null;null;null;house;La Soukra;La Soukra
+320000.0;4;200;1;null;null;apartment;null;Bizerte
+600000.0;null;300;2;8;6;house;Mornaguia;Mornaguia
+null;4;350;2;4;null;null;Hammamet;Hammamet Sud
+null;4;262;2;null;null;house;Rades;Rades El Mrah
+220000.0;4;216;1;null;null;house;null;Kelibia
+175000.0;3;300;1;null;null;house;null;Kelibia
+950000.0;4;798;3;null;5;house;e;Cité Bou Mhel inBoumhel Bassat
+38000.0;1;340;1;1;null;house;null;Kelibia
+320000.0;3;1000;1;4;null;house;Mornaguia;Mornaguia
+150000.0;null;200;2;null;3;house;Midoun;Zone touristique
+800000.0;4;1280;2;null;null;house;La Soukra;Chotrana 1
+800000.0;null;185;2;5;4;house;La Soukra;Chotrana 1
+7000000.0;5;900;6;7;null;house;Carthage;Carthage
+210000.0;5;88;1;null;null;house;null;Ghar El Melh
+null;6;145;2;null;null;house;Sousse Riadh;Sousse Riadh
+145000.0;4;350;2;5;null;house;null;El Haouaria
+360000.0;null;200;2;4;3;house;Tunis;Montfleury
+null;3;142;2;null;null;house;Mohamadia;Cite Jardins
+null;8;470;5;13;null;house;Hammam Chatt;Borj Cedria
+680000.0;4;202;null;null;null;apartment;Le Kram;Les Jardins de Carthage
+700000.0;2;480;1;2;null;house;Mahdia Ville;Mahdia Ville
+750000.0;9;499;2;null;null;house;Raoued;Cite el Ghazela
+540000.0;null;505;1;4;3;house;Hammam Chatt;Hammam Chatt
+120000.0;3;100;2;null;null;house;Jedaida;Cite Ennajet
+480000.0;1;380;1;10;null;house;Tunis;La Medina
+null;3;160;1;null;null;house;null;El Ksar
+220000.0;3;200;2;null;null;house;null;Menzel Bouzelfa
+null;6;831;1;null;null;house;Tebourba;El Aroussia
+450000.0;null;150;2;5;3;house;Megrine;Megrine Chaker 
+485000.0;8;240;3;null;null;house;null;Soliman
+null;5;160;2;null;null;house;Sakiet Eddaier;Sidi Mansour
+550000.0;3;320;3;4;null;house;Sfax Ville;Route gremda
+390000.0;3;165;2;1;null;house;null;Zarzis
+120000.0;5;2000;3;null;null;house;null;Ain Draham
+null;3;200;3;1;null;house;null;Hammam Sousse Gharbi
+null;5;144;2;5;null;house;La Manouba;La Manouba
+720000.0;6;450;3;null;null;house;Hammamet;Hammamet Nord
+null;null;200;1;null;3;house;Sfax Ville;Route Lafrane
+300000.0;7;140;3;null;null;house;Sidi Hassine;Sidi Hassine 
+null;4;150;2;null;null;house;Hammamet;Hammamet
+1200000.0;null;480;2;8;8;house;Tunis;La Medina
+null;14;469;8;null;null;house;Sousse Ville;Bouhssina
+900000.0;12;400;4;null;null;house;El Mourouj;El Mourouj 1
+450000.0;6;570;2;null;null;apartment;Sfax Ville;Route El Ain
+150000.0;3;850;1;4;null;house;null;Kelibia
+90000.0;4;146;1;null;null;house;Sidi Hassine;Jayara 
+100000.0;4;55;2;null;null;house;El Omrane;Oued Sebai
+null;null;313;1;null;3;house;null;Bouhjar
+null;null;99;1;null;3;house;Jedaida;Cité Ennour
+170000.0;10;130;3;null;null;house;null;Bizerte
+150000.0;3;101;1;null;null;house;Le Bardo;Ksar Said
+null;3;471;2;1;null;house;Ariana Ville;Cite Jaafar
+350000.0;null;165;null;6;4;house;Houmt Souk;Houmt Souk
+199000.0;3;250;1;null;null;house;null;Makthar
+680000.0;5;417;2;6;null;house;El Omrane;El Omrane
+235000.0;4;135;1;2;null;house;El Mourouj;Cite Moncef Bey
+699000.0;2;1030;1;6;null;house;Houmt Souk;Houmt Souk
+70000.0;6;100;1;null;4;house;Bizerte Nord;Bizerte Centre Ville
+null;3;350;1;null;null;house;Boumhel ;Cite El Khalij 
+1350000.0;null;null;null;null;null;house;Carthage;Carthage
+600000.0;3;135;3;null;null;house;El Menzah;El Menzah 9
+250000.0;2;220;1;6;null;house;Nabeul;Nabeul
+332100000.0;8;172;2;null;null;house;El Ouardia;El Ouardia
+null;6;164;2;null;null;house;Tunis;Montfleury
+190000.0;null;110;2;null;4;house;null;Hammam Sousse Gharbi
+750000.0;null;356;4;10;7;house;Carthage;Salambo
+190000.0;null;110;2;null;4;house;null;Khezama Ouest
+800000.0;3;300;1;null;null;house;La Marsa;La Marsa
+230000.0;5;150;2;null;null;house;Raoued;Raoued
+null;1;41;1;null;null;house;null;Tantana
+220000.0;5;135;2;null;null;house;Cite El Khadra;Centre Urbain Nord
+400000.0;3;350;1;null;3;house;Ariana Ville;Ariana
+60000.0;5;120;1;null;null;house;null;Makthar
+1100000.0;null;622;4;4;6;house;Ariana Ville;Nouvelle Ariana
+259000.0;6;221;2;null;null;house;Oued Ellil;Cite AFH
+500000.0;3;230;1;4;null;Residence;El Mourouj;El Mourouj 3
+1200000.0;3;300;2;1;null;house;Tunis;Abou El Kacem Chebbi
+null;3;120;1;null;null;house;null;Raf Raf
+145000.0;null;85;1;null;1;house;Raoued;Cite Ennour Jaafar
+1550000.0;10;469;8;null;null;house;null;Cite Jaouhara
+320000.0;5;200;2;11;null;house;El Hrairia;Cite Bougatfa
+null;3;140;1;null;null;house;null;Raf Raf
+220000.0;9;120;3;null;null;house;Hammam Lif;Cité Boussouffara
+220000.0;5;135;2;null;null;house;Tunis;Bab Souika
+550000.0;3;470;2;null;null;house;Mornaguia;Mornaguia
+350000.0;2;400;3;null;9;house;Raoued;Raoued
+190000.0;4;198;1;null;null;house;null;El Haouaria
+730000.0;4;8500;null;null;null;house;null;Kelibia
+2800000.0;4;877;3;5;null;house;Hammamet;Hammamet
+null;9;900;null;null;null;house;null;La Marsa
+480000.0;6;470;null;null;null;house;La Manouba;La Manouba
+140000.0;2;150;1;2;null;house;La Marsa;Aouina
+850000.0;6;10000;2;null;4;apartment;Mornag;Khelidia
+540000.0;8;463;2;null;6;house;Mornag;Mornag
+3600000.0;null;400;4;11;7;house;La Marsa;La Marsa
+850000.0;4;800;3;6;null;house;Mornag;Mornag
+190000.0;8;141;2;null;null;house;Mornag;Mornag
+850000.0;8;15540;2;null;null;house;Mornag;El Ksibi
+550000.0;8;218;4;null;null;house;Mornaguia;Mornaguia
+null;3;180;1;null;null;house;Hammamet;Hammamet
+800000.0;null;343;4;4;4;house;La Soukra;Chotrana 3
+350000.0;null;720;1;5;6;house;Sfax Ville;Route Bouzayyen
+450000.0;null;730;1;3;3;apartment;Hammamet;Hammamet Sud
+null;4;250;1;null;null;house;La Manouba;La Manouba
+980000.0;null;450;5;6;4;Residence;Hammamet;Hammamet Sud
+3500000.0;null;754;2;null;5;house;Carthage;Carthage
+null;2;116;2;null;null;house;Mnihla;Mnihla
+850000.0;1;1000;1;1;null;house;null;Aghir
+440000.0;null;510;1;4;3;house;null;Kelibia
+430000.0;3;166;null;null;null;apartment;Sousse Jaouhara;Sousse Jaouhara
+95000.0;null;63;1;null;1;house;La Soukra;Borj Louzir
+null;3;181;2;null;null;house;Ariana Ville;Ariana
+null;null;180;null;5;4;house;null;Soliman
+745000.0;3;612;1;4;null;house;Boumhel ;Boumhel 
+460000.0;7;349;2;null;null;house;El Mourouj;El Mourouj 3
+null;7;228;2;null;null;house;Cite El Khadra;Cite El Khadra
+300000.0;3;130;1;null;null;house;Le Bardo;Le Bardo
+290000.0;null;150;null;3;2;house;Hammam Lif;Hammam Lif
+270000.0;null;165;1;6;3;house;Nouvelle Medina;Nouvelle Medina
+null;null;140;2;null;3;house;null;Dar Chaabane
+350000.0;null;null;null;2;1;house;Raoued;Cite des Juges
+440000.0;null;700;1;3;3;house;Hammamet;Hammamet Sud
+520000.0;14;300;4;null;null;house;El Mourouj;El Mourouj 4
+160000.0;null;90;1;3;2;house;Cite El Khadra;Cite Jardins
+550000.0;3;2500;1;null;null;house;Mornag;El Alelgua
+550000.0;5;1000;1;null;4;house;Mornag;El Alelgua
+170000.0;6;124;3;9;null;house;Mornag;Mornag
+275000.0;6;118;2;null;null;house;Mornag;Mornag
+275000.0;5;263;2;null;null;house;null;Kelibia
+470000.0;7;328;2;null;null;house;Mornag;Mornag
+420000.0;3;444;1;null;2;house;Mornag;Mornag
+null;6;400;3;null;null;apartment;null;Ras Jebel
+null;2;472;1;null;null;house;Houmt Souk;Houmt Souk
+3500000.0;10;2700;6;null;null;house;La Soukra;La Soukra
+1400000.0;null;550;2;13;5;house;El Menzah;El Menzah 9
+null;null;530;2;4;4;house;La Manouba;La Manouba
+150000.0;5;90;2;2;null;house;El Omrane;Jbel Lahmar
+330000.0;null;254;2;2;4;house;Hammamet;Hammamet Sud
+null;6;130;2;null;null;house;El Battan;El Battan
+null;11;164;null;11;null;house;Mohamadia;Cite Essalem
+null;null;600;1;null;5;house;null;Korba
+270000.0;null;180;1;5;3;house;null;Kelibia
+null;5;389;1;null;null;house;El Ouardia;Debouzville
+2400000.0;5;1208;3;null;null;house;La Marsa;Gammarth Superieur
+null;3;267;2;null;null;house;null;Kelibia
+null;null;150;2;null;6;house;Ben Arous;Ben Arous
+200000.0;2;120;1;null;2;house;Tunis;Montfleury
+590000.0;5;227;2;null;null;apartment;La Marsa;Cite Erriadh
+null;null;300;2;null;3;house;Beni Khiar;Beni Khiar
+null;1;340;1;null;3;apartment;Hammamet;Hammamet Nord
+280000.0;6;136;2;2;null;house;Tunis;Bab Jazira
+470000.0;3;300;1;1;null;house;El Menzah;El Menzah 9
+null;null;880;1;null;3;house;null;Msaken
+3250000.0;26;1000;14;null;null;house;Hammam Sousse;El Kantaoui
+220000.0;2;110;1;null;null;house;Fouchana;Fouchana
+800000.0;null;343;null;4;4;house;La Soukra;Chotrana 2
+350000.0;6;175;2;null;4;house;Houmt Souk;Houmt Souk
+98000.0;2;109;1;null;null;house;Mohamadia;Cite El Ksar
+300000.0;2;365;1;null;2;house;Mohamadia;Cite El Baccouch
+250000.0;4;230;1;null;null;house;null;Korba
+null;null;230;1;null;5;apartment;null;Hammam Zriba
+null;2;255;2;null;null;house;El Hrairia;Ezzahrouni
+220000.0;null;150;2;7;5;house;Ettadhamen;Cite 18 Janvier
+null;1;180;2;null;6;house;null;Menzel Jemil
+110000000.0;9;220;null;17;null;house;null;Tezdaine
+null;3;250;2;null;null;house;Oued Ellil;Oued Ellil
+220000.0;4;80;1;null;null;house;El Mourouj;El Mourouj 3
+950000.0;7;500;1;null;4;house;Sousse Riadh;Sousse Riadh
+null;null;108;1;null;3;house;Tabarka;Tabarka Ville
+350000.0;5;109;2;null;null;house;Sousse Riadh;Sousse Riadh
+80000.0;7;100;2;null;null;house;null;Sijoumi
+225000.0;3;177;1;6;null;house;Beja;Beja Nord
+385000.0;5;120;1;null;null;house;Douz;El Golaa
+1400000.0;5;250;3;null;4;house;Hammamet;Yasmine Hammamet
+160000.0;4;100;2;null;null;house;Hammam Chatt;Bir El Bey
+260000.0;9;114;2;null;null;house;La Manouba;La Manouba
+750000.0;7;460;2;null;null;house;Megrine;Sidi Rezig Megrine
+1600000.0;null;420;11;12;11;house;Mahdia Ville;Mahdia Ville
+350000.0;2;120;2;null;null;house;Bizerte Nord;Bizerte Centre Ville
+null;4;1000;2;7;null;house;null;Gabes Sud
+null;3;197;1;null;null;house;null;Sijoumi
+300000.0;4;150;2;8;null;house;e;Bou Mhel inBoumhel Bassat
+null;5;400;2;null;null;house;Mornaguia;Mornaguia
+null;6;300;1;null;2;house;null;Chebba
+null;3;150;1;null;null;house;Ettadhamen;Cite Ettadhamen
+800000.0;14;400;4;null;null;house;Tunis;La Medina
+null;null;150;2;null;4;house;Ettadhamen;Cite Ettadhamen
+600000.0;7;600;3;null;null;house;Raoued;Raoued
+null;3;172;1;null;null;house;null;Dar Chaabane
+370000.0;null;230;1;null;3;house;Beni Khiar;Beni Khiar
+340000.0;3;120;1;null;null;house;Boumhel Bassat;Cite Essafa 
+null;5;240;2;null;null;house;null;Cite Jaouhara
+null;5;220;1;null;null;house;La Manouba;Denden
+1100000.0;5;300;4;6;null;apartment;Hammamet;Hammamet
+1279000.0;null;523;null;null;null;apartment;Le Kram;Les Jardins de Carthage
+null;2;120;1;null;null;house;Nabeul;Nabeul
+null;5;250;2;null;null;house;Tunis;La Medina
+700000.0;3;6745;2;null;2;house;Mednine;Mednine
+null;3;220;1;null;null;house;null;Al-Qayrawan
+449500.0;null;198;null;4;3;apartment;Mednine;Mednine
+284000.0;4;400;1;null;null;house;Hammamet;Yasmine Hammamet
+null;4;100;1;null;2;house;Raoued;Raoued
+520000.0;2;208;1;3;null;house;La Marsa;Cite Du Stade
+400000.0;null;630;1;null;4;house;Sakiet Ezzit;Merkez Chihya
+null;3;120;2;null;null;house;La Soukra;Cite de l'aeroport
+1200000.0;5;200;2;null;null;house;La Soukra;La Soukra
+null;3;100;1;null;2;house;Sidi Thabet;Cite Mongi Slim
+270000.0;3;250;1;null;null;house;Raoued;Raoued
+450000.0;6;150;1;null;null;house;Rades;Cite Mohamed Ali
+140000.0;3;850;1;null;null;house;null;Kelibia
+null;4;500;4;null;null;house;Houmt Souk;Houmt Souk
+null;4;225;1;null;null;house;La Marsa;Bhar Lazreg
+null;4;130;1;null;null;house;null;Jendouba Ville
+null;4;1800;2;5;null;house;La Marsa;La Marsa
+null;4;207;2;null;4;house;La Manouba;La Manouba
+null;5;209;2;null;null;house;Le Bardo;Le Bardo
+null;2;405;1;3;null;house;Sidi Thabet;Cite el Mrezga
+null;6;180;2;null;null;house;Raoued;Cite Ennour Jaafar
+2200000.0;5;500;2;null;null;null;La Marsa;Cite Les Pins
+null;2;260;1;null;null;house;null;El Haouaria
+800000.0;5;616;2;null;null;house;Hammam Sousse;Cite de la Plage
+150000.0;2;128;null;3;null;house;La Goulette;La Goulette
+null;6;140;2;null;null;house;Fouchana;Naassen
+null;3;1400;1;null;3;house;null;Mateur
+null;4;1;null;null;null;house;null;Hergla
+null;null;257;4;4;10;house;Bizerte Sud;La Pecherie
+1350000.0;null;605;null;7;4;house;Rades;Rades Mongi
+290000.0;2;190;1;null;null;house;Metline;Metline 
+null;3;103;1;null;null;house;Sousse Riadh;Sousse Riadh
+null;null;100;1;null;1;house;Tabarka;Zone Touristique
+null;null;300;2;null;2;house;Raoued;Raoued
+139000.0;4;95;1;4;null;house;Fouchana;Fouchana
+150000.0;3;119;1;4;null;house;Tunis;Bab El Khadra
+150000.0;1;160;1;2;null;Apartment;Megrine;Megrine Chaker 
+1450000.0;null;390;2;4;3;house;La Marsa;La Marsa
+180000.0;4;80;1;6;null;house;Bizerte Nord;Bizerte
+null;3;190;1;4;null;house;El Ouardia;Bellevue
+190000.0;null;140;null;4;3;house;La Marsa;Bhar Lazreg
+160000.0;null;76;1;2;1;house;La Marsa;Gammarth
+650000.0;5;1000;3;null;null;house;null;Zarzis
+2800000.0;7;680;null;null;null;house;null;La Soukra
+null;5;150;2;null;4;apartment;La Marsa;La Marsa
+650000.0;9;400;null;17;null;apartment;Raoued;Raoued
+120000.0;3;90;1;null;2;house;Tabarka;Zone Touristique
+150000.0;4;70;2;null;null;house;Rades;Cite Taieb Mhiri 2
+1500000.0;5;580;3;null;null;house;Ariana Ville;El Menzah 5
+380000.0;null;150;2;2;3;house;La Marsa;Cite El Khalil
+null;5;4250;4;7;null;house;La Soukra;La Soukra
+null;1;100;1;null;null;house;El Omrane;Cite des Oliviers
+null;7;150;1;null;null;house;Fouchana;Cite Brim
+550000.0;12;265;3;null;null;house;Raoued;Jaafar
+285000.0;4;250;1;null;null;house;Le Bardo;Le Bardo
+null;4;145;1;null;null;house;Sousse;Messadine
+670000.0;2;335;4;4;null;house;Hammamet;Hammamet
+600000.0;null;1500;null;6;6;house;Hammamet;Hammamet
+170000.0;8;100;1;null;null;house;Tunis;Saida Mannoubia
+null;null;144;1;null;1;house;Sfax Sud;Merkez Sahnoun
+800000.0;3;300;1;null;null;house;Hammamet;Hammamet
+2000000.0;null;300;1;null;3;house;Hammamet;Hammamet
+810000.0;null;200;null;6;4;house;Hammamet;Hammamet Nord
+1100000.0;null;300;1;null;3;house;Hammamet;Hammamet
+320000.0;2;300;1;3;null;house;Hammamet;Hammamet Nord
+4000000.0;1;1660;1;2;null;house;El Menzah;Mutuelle Ville
+750000.0;3;320;1;null;null;house;Hammamet;Hammamet
+220000.0;5;110;1;4;null;house;Bizerte Nord;Bizerte Centre Ville
+350000.0;4;350;1;4;null;house;null;Zarzouna
+250000.0;6;106;1;null;null;house;null;Bizerte
+340000.0;null;180;3;4;3;house;Akouda;Chott Meriem
+null;7;75;2;7;null;house;Nouvelle Medina;Nouvelle Medina
+260000000.0;6;250;2;7;null;house;La Medina;La Medina
+null;3;460;1;4;null;house;null;Msaken
+340000.0;null;83;1;2;1;house;Le Kram;Les Jardins de Carthage
+160000.0;3;132;1;4;null;house;null;Zarzouna
+7500000.0;8;990;null;9;null;house;null;Tunis
+250000.0;4;180;1;null;3;house;Tunis;Bab Saadoun
+250000.0;3;143;2;4;null;house;null;Sakiet Ezzit
+null;2;180;1;3;null;apartment;null;Bouficha
+320000.0;3;150;2;null;3;house;Nouvelle Medina;Nouvelle Medina 
